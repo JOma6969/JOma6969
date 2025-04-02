@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer software
 - 🌱 I’m currently learning programming and machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 ou can reach me on my gmaill lawalTreasure08@gmail.com
+- 📫 You can reach me on my gmaill lawalTreasure08@gmail.com
 
 <!---
 JOma6969/JOma6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
